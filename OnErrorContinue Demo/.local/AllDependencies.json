@@ -18115,9 +18115,9 @@
     "restore": {
       "projectUniqueName": "OnErrorContinue Demo",
       "projectName": "OnErrorContinue Demo",
-      "projectPath": "C:\\Users\\jyoth\\OneDrive\\Documents\\UiPath\\OnErrorContinue Demo\\.local",
+      "projectPath": "C:\\Users\\jyoth\\OneDrive\\Documents\\UiPath\\220701113-ARPA-Experiments\\OnErrorContinue Demo\\.local",
       "packagesPath": "C:\\Users\\jyoth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jyoth\\OneDrive\\Documents\\UiPath\\OnErrorContinue Demo\\.local",
+      "outputPath": "C:\\Users\\jyoth\\OneDrive\\Documents\\UiPath\\220701113-ARPA-Experiments\\OnErrorContinue Demo\\.local",
       "UsingMicrosoftNETSdk": false,
       "restoreAuditProperties": {
         "enableAudit": "False"
